@@ -1,6 +1,6 @@
 # Site settings
-title: Starter Template for Jekyll
-email: youremail@yourdomain.net
+title: Marz Training Center
+email: uphoon@gmail.com
 description: Built using Filament Group's Load CSS and Load JS and http://jch.penibelst.de/'s html compressor for optimising speed.
 type: website
 image: assets/imgs/octojekyll.jpg
@@ -8,6 +8,12 @@ host: 0.0.0.0
 
 # Server Config options
 # livereload: true
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
 # SASS
 sass:
