@@ -17,7 +17,7 @@ permalink: /about/
 
 
 
-![Marz training center](../images/mtc/MTC_A01.jpg)
+![Marz training center](https://live.staticflickr.com/65535/48492515961_1a9d8b868f_b.jpg)
 
 
 <br>
@@ -26,6 +26,6 @@ permalink: /about/
 ### *LOOKS GOOD MOVE WELL*
 
 
-- Tel: 010-000-000
+- Tel: +82 053-354-3298
 - email: [marztraingcenter@mtc.cf](marztraingcenter@mtc.)
 - address : 114 ChimSan-ro, Buk-Gu, Daegu Korea
